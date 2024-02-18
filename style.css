@@ -13,6 +13,14 @@ ul {
 
 }
 
+.dark {
+    padding: 15px;
+    background: #35424a;
+    color: whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .button_1 {
     height: 38px;
     background: rgb(223, 163, 53);
@@ -130,6 +138,17 @@ header a:hover {
 
 #boxes .boxes img {
     width: 90px;
+}
+
+aside#sidebar {
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+}
+
+article#main-column {
+    float: left;
+    width: 65%;
 }
 
 footer {
